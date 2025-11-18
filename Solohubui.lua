@@ -1093,7 +1093,7 @@ local GetFlag, SetFlag, CheckFlag do
 end
 
 local ScreenGui = Create("ScreenGui", CoreGui, {
-	Name = "redz Library V5",
+	Name = "solo Library V5",
 }, {
 	Create("UIScale", {
 		Scale = UIScale,
