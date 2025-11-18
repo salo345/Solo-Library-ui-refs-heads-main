@@ -5,8 +5,8 @@
 - It uses the same UI style as the original, with some improvements and refinements.
 - The reason the UI is named **Wand** is that it should be the name of the next generation of **redz Hub** UIs
 
-- 🔹 Made by **real_redz**  
-- 🔹 Designed mainly for use in **Redz Hub** scripts  
+- 🔹 Made by **real_solo**  
+- 🔹 Designed mainly for use in **Solo Hub** scripts  
 - 🔹 Open-Source, Lightweight, and Optimized  
 
 ---
@@ -21,8 +21,8 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/tlred
 ```lua
 local Window = Library:MakeWindow({
   Title = "Nice Hub : Cool Game",
-  SubTitle = "dev by real_redz",
-  ScriptFolder = "redz-library-V5"
+  SubTitle = "dev by real_solo",
+  ScriptFolder = "solo-library-V5"
 })
 ```
 
