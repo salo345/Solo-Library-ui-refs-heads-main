@@ -48,7 +48,7 @@ local redzlib = {
 		}
 	},
 	Info = {
-		Version = "1.1.0"
+		Version = "1.2.3"
 	},
 	Save = {
 		UISize = {550, 380},
